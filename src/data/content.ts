@@ -90,6 +90,6 @@ export const experience = [
 ];
 
 export const contact = {
-  formspreeId: "YOUR_FORMSPREE_ID",
+  email: "ecomautomatyzacja@gmail.com",
   linkedin: "https://www.linkedin.com/in/wojciech-ros%C5%82onek-809641231/",
 };
