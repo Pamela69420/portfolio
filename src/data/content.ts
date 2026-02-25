@@ -65,7 +65,7 @@ export const experience = [
   },
   {
     period: "paź 2023 – sie 2024",
-    role: "Przerwa w karierze",
+    role: "Rozwój umiejętności",
     company: "",
     anonymous: false,
   },
@@ -84,7 +84,7 @@ export const experience = [
   {
     period: "sty 2014 – maj 2018",
     role: "Koordynator zamówień",
-    company: "Lubczyk",
+    company: "Lubczyk — sklep ze zdrową żywnością",
     anonymous: false,
   },
 ];
